@@ -1,4 +1,4 @@
-// Approach 1 :- by masking
+// Approach 1 :- by masking method
 
 class Solution {
 public:
